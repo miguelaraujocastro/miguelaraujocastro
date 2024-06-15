@@ -7,7 +7,7 @@
 
 - All of my best projects are available at [https://miguelcastro-portfolio.netlify.app](https://miguelcastro-portfolio.netlify.app)
 
-- How to reach me **miguel.castroo1115@gmail.com**
+- How to reach me: **miguel.castroo1115@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
