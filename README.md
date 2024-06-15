@@ -80,7 +80,6 @@
 <br />
 <br />
 <br />
-<br />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelaraujocastro&show_icons=true&locale=en" alt="miguelaraujocastro" /></p>
 
