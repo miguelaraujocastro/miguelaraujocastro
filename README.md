@@ -2,7 +2,7 @@
 ---
 **`Information Systems Manager and Engineer`**
 
-Hi, I’m an Information Systems Manager and Engineer, dedicated to understanding, in more detail, how Information Technologies drive and influence the business environment. I have recently completed my bachelor's degree and am planning to pursue a master's degree. At the same time, I am looking for work opportunities related to my main areas of interest, specifically as a Full Stack Developer or Data Engineering, because I think that I have the necessary skills to contribute and learn, and I have been quite successful in the projects I developed within these areas.
+Hi, I’m an Information Systems Manager and Engineer, dedicated to understanding, in more detail, how Information Technologies drive and influence the business environment. I have recently completed my bachelor's degree and I am planning to pursue a master's degree. At the same time, I am looking for work opportunities related to my main areas of interest, specifically as a Full Stack Developer or Data Engineering, because I think that I have the necessary skills to contribute and learn, and I have been quite successful in the projects I developed within these areas.
 
 
 
