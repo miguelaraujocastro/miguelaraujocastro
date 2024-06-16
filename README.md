@@ -15,7 +15,7 @@ Hi, I’m an Information Systems Manager and Engineer, dedicated to understandin
 
 - I’m currently learning **React**
 
-- All of my best projects are available too at my website [https://miguelcastro-portfolio.netlify.app](https://miguelcastro-portfolio.netlify.app)
+- All of my best projects are available too, at my website: [https://miguelcastro-portfolio.netlify.app](https://miguelcastro-portfolio.netlify.app)
 
 - How to reach me: **miguel.castroo1115@gmail.com**
 
