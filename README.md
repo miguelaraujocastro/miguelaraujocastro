@@ -1,8 +1,14 @@
 ### Miguel Castro
 ---
-**`Data Engineer | Data Scientist | Machine Learning & AI`**
+**`Data Engineering | Data Science | Machine Learning & AI`**
 
-Hi, I’m an Information Systems Manager and Engineer, dedicated to understanding, in more detail, how Information Technologies drive and influence the business environment. I have recently completed my bachelor's degree and I am planning to pursue a master's degree. At the same time, I am looking for work opportunities related to my main areas of interest, specifically as a Full Stack Developer or Data Engineering, because I think that I have the necessary skills to contribute and learn, and I have been quite successful in the projects I developed within these areas.
+Hi, I’m Miguel Castro. I’m passionate about Data Engineering, Data Science, Machine Learning & AI, Web and Application Development and always excited to dive into new challenges in these areas. I have been applying practical skills in the academic and professional projects I have developed.
+
+During my journey, I have addressed topics such as, construction of data pipelines, layered data architecture (ETL/Lakehouse), large-scale data processing (Python, SQL, BigQuery, Spark, Hadoop), integration with distributed systems (Kafka, Docker, Prometheus, Consul), application of predictive and optimization models with Machine Learning and AI, as well as application development (HTML/CSS, JavaScript, Java, among others) and cybersecurity.
+
+In addition to this, I am interested in acquiring new skills, practicing sports and maintaining an active gym routine to improve my productivity. Additionally, I try to stay involved in the community by volunteering at local cultural and sporting events.
+
+I describe myself as a proactive, analytical person motivated by challenges.
 
 
 </br>
